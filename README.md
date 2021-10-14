@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/michroquiza/sunnyside)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/michroquiza/sunnyspage)
+- Live Site URL: [Live Site](https://michroquiza.github.io/sunnyspage/)
 
 ## My process
 
